@@ -71,9 +71,9 @@ public class Book implements Serializable {
         this.title = title;
     }
 
-    @Override
-    public String toString() {
-        return "{\"isbn\":\"" + isbn + "\",\"title\":\"" + title + "\",\"author\":\"" + author + "\"}";
-    }
+//    @Override
+//    public String toString() {
+//        return "{\"isbn\":\"" + isbn + "\",\"title\":\"" + title + "\",\"author\":\"" + author + "\"}";
+//    }
 
 }
